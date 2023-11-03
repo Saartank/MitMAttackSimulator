@@ -1,0 +1,11 @@
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.12/classes/
+/target/scala-2.12/test-classes/
+/graphSerialization/GraphToJSON/project/project/target/
+/graphSerialization/GraphToJSON/project/target/
+/graphSerialization/GraphToJSON/target/
+/graphSerialization/GraphToJSON/target/scala-3.3.0/classes/
+/graphSerialization/GraphToJSON/target/scala-3.3.0/test-classes/

@@ -1,0 +1,5 @@
+09:01:23.666 [main] INFO  - Loading graphs: C:/Users/being/Downloads/important_work/uic/sem_3/cs_441/hw_2/graph_simulator/generated_graphs/NetGraph_27-10-23-19-04-12.ngs and C:/Users/being/Downloads/important_work/uic/sem_3/cs_441/hw_2/graph_simulator/generated_graphs/NetGraph_27-10-23-19-04-12.ngs.perturbed
+09:01:27.136 [main] INFO  - Default output directory: C:\Users\being\Downloads\important_work\uic\sem_3\cs_441\hw_2\Tests\GraphToJSON
+09:01:27.136 [main] ERROR - Output directory /Users/drmark/Library/CloudStorage/OneDrive-UniversityofIllinoisChicago/Github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\being\Downloads\important_work\uic\sem_3\cs_441\hw_2\Tests\GraphToJSON
+09:01:31.436 [main] INFO  - Graphs loaded successfully!
+09:01:31.436 [main] INFO  - Converting them to JSON now.

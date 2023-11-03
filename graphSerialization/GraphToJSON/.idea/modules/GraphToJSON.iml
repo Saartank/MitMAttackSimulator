@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/C:/Users/being/Downloads/important_work/uic/sem_3/cs_441/hw_2/Tests/GraphToJSON/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../target/scala-3.3.0/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-3.3.0/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-3.3.0" level="project" />
+    <orderEntry type="library" name="sbt: ch.qos.logback:logback-classic:1.3.0-alpha10:jar" level="project" />
+    <orderEntry type="library" name="sbt: ch.qos.logback:logback-core:1.3.0-alpha10:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.tototoshi:scala-csv_3:1.3.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.findbugs:jsr305:3.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.errorprone:error_prone_annotations:2.11.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:failureaccess:1.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:31.1-jre:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.j2objc:j2objc-annotations:1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.netty:netty-reactive-streams-http:2.0.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.netty:netty-reactive-streams:2.0.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe:config:1.4.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-codec:commons-codec:1.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-io:commons-io:2.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: guru.nidi.com.eclipsesource.j2v8:j2v8_win32_x86_64:4.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: guru.nidi.com.kitfox:svgSalamander:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: guru.nidi:graphviz-java:0.18.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-core_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-generic_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-jawn_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-numbers_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-parser_3:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-buffer:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec-http2:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec-http:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-common:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-handler:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-resolver:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-native-epoll:4.1.68.Final:linux-x86_64:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport-native-unix-common:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport:4.1.68.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.arnx:nashorn-promise:0.1.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: net.bytebuddy:byte-buddy-agent:1.12.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.bytebuddy:byte-buddy:1.14.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-exec:1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpclient:4.5.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore:4.4.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apfloat:apfloat:1.10.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.checkerframework:checker-qual:3.12.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jgrapht:jgrapht-core:1.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jgrapht:jgrapht-guava:1.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jheaps:jheaps:0.14:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.mockito:mockito-core:4.2.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.objenesis:objenesis:3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.reactivestreams:reactive-streams:1.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parallel-collections_3:1.0.4:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_3:2.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.3.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalactic:scalactic_3:3.2.12-RC2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-compatible:3.2.12-RC2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-core_3:3.2.12-RC2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-diagrams_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-featurespec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-flatspec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-freespec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-funspec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-funsuite_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-matchers-core_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-mustmatchers_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-propspec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-refspec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-shouldmatchers_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest-wordspec_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest_3:3.2.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatestplus:mockito-4-2_3:3.2.12.0-RC2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:jcl-over-slf4j:1.7.30:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:jul-to-slf4j:1.7.30:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:2.0.0-alpha5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_3:2.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_3:2.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:jawn-parser_3:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.webjars.npm:viz.js-graphviz-java:2.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:annotations:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:apache-client:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:arns:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:auth:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:aws-core:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:aws-query-protocol:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:aws-xml-protocol:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:http-client-spi:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:json-utils:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:metrics-spi:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:netty-nio-client:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:profiles:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:protocol-core:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:regions:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:s3:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:sdk-core:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:third-party-jackson-core:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.awssdk:utils:2.17.52:jar" level="project" />
+    <orderEntry type="library" name="sbt: software.amazon.eventstream:eventstream:1.0.1:jar" level="project" />
+    <orderEntry type="module-library">
+      <library name="sbt: unmanaged-jars">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lib/GenericSimUtilities-assembly-0.1.0-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lib/NetModelGenerator-assembly-0.1.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sbt: unmanaged-sources-and-docs">
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.68.Final/netty-transport-native-epoll-4.1.68.Final-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.68.Final/netty-transport-native-epoll-4.1.68.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
