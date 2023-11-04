@@ -17,6 +17,10 @@ import software.amazon.awssdk.http.apache.ApacheHttpClient
 import java.io.ByteArrayOutputStream
 import java.io.ByteArrayOutputStream
 
+/**
+ * This object includes functions to read and write objects to S3.
+ */
+
 object AWSUtils {
   private val logger = LoggerFactory.getLogger(getClass.getSimpleName)
 

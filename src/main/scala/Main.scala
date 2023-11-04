@@ -42,6 +42,7 @@ object Main {
 
     val simScores = SimRank.calculateSimRank(sc, og.adjList, exploredPerturbedGraph, og.nodeParameters, pg.nodeParameters, simRankIterations, simRankDecayFactor)
 
+    // Restructuring function output to make it readable and store in YAML
     val modifiedSimScores: Map[String, Map[String, Any]] = simScores.map {
       case (originalValuableNodeID, (perturbedValuableNodeID, simScore)) =>
         originalValuableNodeID.toString -> Map(

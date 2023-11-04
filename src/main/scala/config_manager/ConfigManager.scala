@@ -2,6 +2,12 @@ package config_manager
 
 import com.typesafe.config.{Config, ConfigFactory}
 
+/**
+ * This class is used to initialize the config file.
+ * If inputs are provided through the command line arguments,
+ * they will overwrite the parameters in the config file.
+ */
+
 object ConfigManager {
 
   private var config: Config = ConfigFactory.load()

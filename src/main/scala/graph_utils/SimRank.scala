@@ -6,7 +6,18 @@ import org.apache.spark.broadcast.Broadcast
 import scala.collection.mutable
 
 object SimRank {
-
+  /**
+   * This function calculates SimRank scores for each
+   * combination of valuable node in original and perturbed graph.
+   * @param sc : Spark Context
+   * @param originalGraph : adjacecny list of original graph
+   * @param perturbedGraph : adjacecny list of traversed perturbed graph
+   * @param originalNodes : stored value and valuable data bool for each node of original graph
+   * @param perturbedNodes : stored value and valuable data bool for each node of perturbed graph
+   * @param maxIterations : max iterations of SimRank
+   * @param C : Decay factor
+   * @return : Map of original_node -> (perturbed_node, SimScore)
+   */
   def calculateSimRank(
                         sc: SparkContext,
                         originalGraph: Map[Int, List[Int]],

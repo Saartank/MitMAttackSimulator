@@ -1,0 +1,28 @@
+Statistics:
+  True Positives (successful attacks): 210
+  False Positives (failed attacks): 0
+  False Negatives (un-explored and explored but missed): 13
+Scores:
+  Precision: 1.0
+  Recall: 0.9417
+Attacks:
+  Total Attacks: 210
+  Successful Attacks On Modified Nodes: 2
+  Valuable Nodes Explored But Missed: 12
+  Total Successful Attacks: 210
+  Attacks on Modified Nodes: 2
+Perturbations:
+  Honeypots (Added Valuable Nodes): 15
+  Modified Valuable Nodes: 15
+  Removed Valuable Nodes: 20
+  Total Discoverable Valuable Nodes: 223
+Random Walks:
+  Distinct Nodes in a Walk:
+    min: 1.0
+    max: 100.0
+    median: 39.0
+    mean: 66.6667
+  Percentage of Nodes Covered: 38.3869
+Simulated Graphs:
+  Nodes in Original graph: 3001
+  Nodes in Perturbed graph: 2988

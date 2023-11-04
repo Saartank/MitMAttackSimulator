@@ -13,6 +13,11 @@ object SaveAsYaml {
   private val config = ConfigManager.getConfig
   private val analysisOutputDir = config.getString("locations.analysisOutputDir").stripSuffix("/")
 
+  /**
+   * This function takes input a Map and saves it in YAML file.
+   * @param data : as Map
+   * @param fileName : output file name
+   */
   def saveMapAsYaml(data: Map[String, Any], fileName: String): Unit = {
 
     def scalaToJavaMapConversion(map: Map[String, Any]): java.util.Map[String, Any] = {

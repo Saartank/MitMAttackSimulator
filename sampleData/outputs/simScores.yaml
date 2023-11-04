@@ -2,8 +2,8 @@
   perturbedValuableNodeID: '2335'
   SimScore: 1.0
 '1441':
-  perturbedValuableNodeID: '2323'
-  SimScore: 0.0231
+  perturbedValuableNodeID: '200'
+  SimScore: 0.0692
 '1401':
   perturbedValuableNodeID: '1401'
   SimScore: 1.0
@@ -110,8 +110,8 @@
   perturbedValuableNodeID: '1729'
   SimScore: 1.0
 '197':
-  perturbedValuableNodeID: '769'
-  SimScore: 0.1043
+  perturbedValuableNodeID: '197'
+  SimScore: 0.1
 '1805':
   perturbedValuableNodeID: '1805'
   SimScore: 1.0
@@ -119,8 +119,8 @@
   perturbedValuableNodeID: '2352'
   SimScore: 1.0
 '351':
-  perturbedValuableNodeID: '1142'
-  SimScore: 0.0135
+  perturbedValuableNodeID: '351'
+  SimScore: 0.09
 '1658':
   perturbedValuableNodeID: '1658'
   SimScore: 1.0
@@ -218,7 +218,7 @@
   perturbedValuableNodeID: '103'
   SimScore: 1.0
 '2249':
-  perturbedValuableNodeID: '2249'
+  perturbedValuableNodeID: '800'
   SimScore: 0.0643
 '268':
   perturbedValuableNodeID: '268'
@@ -284,8 +284,8 @@
   perturbedValuableNodeID: '2156'
   SimScore: 1.0
 '2642':
-  perturbedValuableNodeID: '85'
-  SimScore: 0.0052
+  perturbedValuableNodeID: '1142'
+  SimScore: 0.0776
 '43':
   perturbedValuableNodeID: '43'
   SimScore: 1.0
@@ -368,8 +368,8 @@
   perturbedValuableNodeID: '1840'
   SimScore: 1.0
 '17':
-  perturbedValuableNodeID: '1112'
-  SimScore: 0.0116
+  perturbedValuableNodeID: '200'
+  SimScore: 0.0
 '2765':
   perturbedValuableNodeID: '2765'
   SimScore: 1.0
@@ -377,8 +377,8 @@
   perturbedValuableNodeID: '799'
   SimScore: 1.0
 '397':
-  perturbedValuableNodeID: '1846'
-  SimScore: 0.0399
+  perturbedValuableNodeID: '879'
+  SimScore: 0.0075
 '698':
   perturbedValuableNodeID: '698'
   SimScore: 1.0
@@ -515,11 +515,11 @@
   perturbedValuableNodeID: '283'
   SimScore: 1.0
 '922':
-  perturbedValuableNodeID: '2323'
-  SimScore: 0.03
+  perturbedValuableNodeID: '2851'
+  SimScore: 0.0068
 '2383':
-  perturbedValuableNodeID: '1476'
-  SimScore: 0.0225
+  perturbedValuableNodeID: '477'
+  SimScore: 0.015
 '1337':
   perturbedValuableNodeID: '1337'
   SimScore: 1.0
@@ -548,8 +548,8 @@
   perturbedValuableNodeID: '2266'
   SimScore: 1.0
 '2187':
-  perturbedValuableNodeID: '2187'
-  SimScore: 0.225
+  perturbedValuableNodeID: '1219'
+  SimScore: 0.0203
 '7':
   perturbedValuableNodeID: '7'
   SimScore: 1.0
@@ -569,8 +569,8 @@
   perturbedValuableNodeID: '793'
   SimScore: 1.0
 '2337':
-  perturbedValuableNodeID: '2337'
-  SimScore: 0.1
+  perturbedValuableNodeID: '1737'
+  SimScore: 0.009
 '555':
   perturbedValuableNodeID: '555'
   SimScore: 1.0
@@ -596,8 +596,8 @@
   perturbedValuableNodeID: '1214'
   SimScore: 1.0
 '2782':
-  perturbedValuableNodeID: '1013'
-  SimScore: 0.0096
+  perturbedValuableNodeID: '2782'
+  SimScore: 0.1286
 '2333':
   perturbedValuableNodeID: '2333'
   SimScore: 1.0
@@ -650,14 +650,14 @@
   perturbedValuableNodeID: '2622'
   SimScore: 1.0
 '2973':
-  perturbedValuableNodeID: '1192'
-  SimScore: 0.0113
+  perturbedValuableNodeID: '2973'
+  SimScore: 0.0788
 '803':
   perturbedValuableNodeID: '803'
   SimScore: 1.0
 '2915':
-  perturbedValuableNodeID: '2120'
-  SimScore: 0.0032
+  perturbedValuableNodeID: '2915'
+  SimScore: 0.1286
 '2277':
   perturbedValuableNodeID: '2277'
   SimScore: 1.0
