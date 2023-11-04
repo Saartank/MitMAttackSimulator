@@ -134,6 +134,10 @@ sbt clean compile assembly
     - Specify the path to the JAR file stored in S3.
     - Provide the S3 paths for the original graph, perturbed graph, and output directory in the arguments section.
 
+# Limitations
+
+In the current approach, there is no communication between parallel random walks i.e. all walks are independent. A better approach would involve the parallel walks exchanging information about the nodes traversed, allowing each walk to attempt exploring new nodes not seen by any of the other parallel walks. This could increase the percentage of explored nodes, which currently stands at approximately 45% using the default parameters. Of course, communicating at each step would be costly; therefore, a middle ground should be sought. This would involve updating the set of all explored nodes only after a certain number of steps have been taken.
+
 # Video Demo 
 
 https://youtu.be/nM44cpEyhxE
